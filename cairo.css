@@ -1,13 +1,13 @@
 @font-face {
     font-family: cairo;
-    src: url(/Cairo/Cairo-Regular.ttf) format(ttf);
+    src: url(/Cairo/Cairo-Regular.ttf);
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: cairo;
-    src: url(/Cairo/Cairo-Light.ttf) format(ttf);
+    src: url(/Cairo/Cairo-Light.ttf);
     font-style: normal;
     font-weight: lighter;
 }
@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: cairo;
-    src: url(/Cairo/Cairo-SemiBold.ttf) format(ttf);
+    src: url(/Cairo/Cairo-SemiBold.ttf);
     font-style: normal;
     font-weight: 800;
 }
