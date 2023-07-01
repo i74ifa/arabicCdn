@@ -1,0 +1,33 @@
+@font-face {
+    font-family: cairo;
+    src: url(./Cairo/Cairo-Regular.ttf) format(ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: cairo;
+    src: url(./Cairo/Cairo-Light.ttf) format(ttf);
+    font-style: normal;
+    font-weight: lighter;
+}
+
+
+@font-face {
+    font-family: cairo;
+    src: url(./Cairo/Cairo-SemiBold.ttf) format(ttf);
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+
+
+@font-face {
+    font-family: cairo;
+    src: url(./Cairo/Cairo-ExtraBold.ttf) format(ttf);
+    font-style: normal;
+    font-weight: bolder;
+}
+
+
