@@ -1,0 +1,47 @@
+@font-face {
+    font-family: marhey;
+    src: url(/Marhey/Marhey-Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: marhey;
+    src: url(/Marhey/Marhey-Light.ttf);
+    font-style: normal;
+    font-weight: lighter;
+}
+
+
+@font-face {
+    font-family: marhey;
+    src: url(/Marhey/Marhey-SemiBold.ttf);
+    font-style: normal;
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: marhey;
+    src: url(/Marhey/Marhey-Medium.ttf);
+    font-weight: 500;
+}
+
+
+
+
+@font-face {
+    font-family: marhey;
+    src: url(/Marhey/Marhey-SemiBold.ttf);
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+
+@font-face {
+    font-family: marhey;
+    src: url(/Marhey/Marhey-Bold.ttf);
+    font-style: normal;
+    font-weight: 900;
+}
+
