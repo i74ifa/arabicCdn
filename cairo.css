@@ -31,7 +31,7 @@
 
 @font-face {
     font-family: cairo;
-    src: url(/Cairo/Cairo-ExtraBold.ttf) format(ttf);
+    src: url(/Cairo/Cairo-ExtraBold.ttf);
     font-style: normal;
     font-weight: bolder;
 }
